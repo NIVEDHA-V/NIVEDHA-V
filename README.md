@@ -18,4 +18,5 @@ Pre final year student @ Rajalakshmi Engineering College
 ### LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nivedhavenkatesan?theme=dark&font=Marcellus&ext=heatmap)
 
+### Github Activity
 [![Nivedha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIVEDHA-V&bg_color=100f0f&color=fdf7fc&line=07ed58&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
