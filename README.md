@@ -1,9 +1,8 @@
 ## Hi there 👋 It's me Nivedha
 
-Pre final year student @ Rajalakshmi Engineering College
+Final year student @ Rajalakshmi Engineering College
    
 - 🌱 I’m currently pursuing BE in Electronic and Communication 
-- 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nivedha-v-27630b247/)
 - 😄 Pronouns: Tech Enthusiast
